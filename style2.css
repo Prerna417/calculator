@@ -1,0 +1,35 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-image: url(https://e0.pxfuel.com/wallpapers/107/587/desktop-wallpaper-plain-black-pure-grey-thumbnail.jpg);
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.button {
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 50px;
+}
+
+.row {
+    margin: 8px 0;
+}
+
+.row input {
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 6px;
+}
